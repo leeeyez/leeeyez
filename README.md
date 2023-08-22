@@ -1,4 +1,8 @@
-## Lee YeJi
+## 🌀 Lee YeJi
+> 🏫 Sookmyung Women's University IT engineering<br/> 🚀 FE Developer<br/> 💫 also interested in ui/ux design
+<br/>
+
+<br/>
 
 |기간|프로젝트|소개|기술|수상|바로보기|
 |---|---|---|---|---|---|
@@ -8,3 +12,23 @@
 |2022.12|Bbangle|유명 베이커리 모바일 예약 어플리케이션|Java||[Bbangle](https://github.com/leeeyez/bbangle)|
 |2022.5|Music Folder| 나만의 음악 아카이빙 웹 사이트|Html||[Music Folder](http://mm.sookmyung.ac.kr/~it2116213), [Code](https://github.com/leeeyez/music-folder)|
 |2022.4 ~ 2022.5|마음기상청|오늘의 날씨와 기분에 따른 사용자 맞춤형 콘텐츠 추천 웹 서비스|React,nodeJS|숙명여대 IT공학전공 학생회 주관 프로젝트 대회 IPS 우수상|[마음기상청](https://github.com/leeeyez/mind-forecast)|
+<br/>
+
+<br/>
+
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Gitkraken-179287?style=flat-square&logo=gitkraken&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp;
