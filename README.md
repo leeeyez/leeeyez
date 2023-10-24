@@ -1,5 +1,5 @@
 ## 🌀 Lee YeJi
-> 🏫 Sookmyung Women's University IT engineering<br/> 🚀 FE Developer<br/> 💫 also interested in ui/ux design
+> 🏫 Sookmyung Women's University IT engineering<br/> 🚀 FE Developer<br/> 💫 interested in ui/ux design
 <br/>
 
 <br/>
