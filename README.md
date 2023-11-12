@@ -6,6 +6,7 @@
 
 |기간|프로젝트|소개|기술|수상|바로보기|
 |---|---|---|---|---|---|
+|2023.11|Farewell2023|2023년 한 해 회고 서비스|React, Django|멋쟁이사자처럼 11기 4호선톤 우수상|[Farewell](http://13.125.156.150/), [Code](https://github.com/FAREWELL2023)
 |2023.7 ~ 2023.8|Bridge|발달장애인을 위한 지원서비스 통합신청 웹사이트|React,Django||[Bridge](http://3.35.4.22:3000/), [Code](https://github.com/leeeyez/Bridge)
 |2023.7 ~ 2023.8|Wemory|We, 우리만의 Memory 저장 웹사이트|React,nodeJS|숙명여대 중앙동아리 SOLUX 28th 장려상|[Wemory](https://github.com/leeeyez/Wemory)
 |2023.7|Local|현지 파견 여행 정보 서비스|Django,Html|2023 여기톤 : HERETHON 해피문데이상(대상)|[Local](https://github.com/leeeyez/Local)
