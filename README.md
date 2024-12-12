@@ -6,9 +6,10 @@
 
 |기간|프로젝트|소개|기술|수상|바로보기|
 |---|---|---|---|---|---|
-|2023.11|송이의숲|숙명 눈송이만을 위한 챌린지 쉐어 플랫폼|React,Spring||[송이의숲](http://13.53.212.211:3000/), [Code](https://github.com/Songyee-Challenge)
-|2023.11|Farewell2023|2023년 한 해 회고 서비스|React,Django|멋쟁이사자처럼 11기 4호선톤 우수상|[Farewell](http://13.125.156.150/), [Code](https://github.com/FAREWELL2023)
-|2023.7 ~ 2023.8|Bridge|발달장애인을 위한 지원서비스 통합신청 웹사이트|React,Django||[Bridge](http://3.35.4.22:3000/), [Code](https://github.com/leeeyez/Bridge)
+|2024.6 ~ 2024.9|Pocket|문화생활 아카이빙 티켓북 웹서비스|React,Spring||[Pocket](https://github.com/Pocket2024)
+|2023.11|송이의숲|숙명 눈송이만을 위한 챌린지 쉐어 플랫폼|React,Spring|| [송이의숲](https://github.com/Songyee-Challenge)
+|2023.11|Farewell2023|2023년 한 해 회고 서비스|React,Django|멋쟁이사자처럼 11기 4호선톤 우수상| [Farewell](https://github.com/FAREWELL2023)
+|2023.7 ~ 2023.8|Bridge|발달장애인을 위한 지원서비스 통합신청 웹사이트|React,Django||[Bridge](https://github.com/leeeyez/Bridge)
 |2023.7 ~ 2023.8|Wemory|We, 우리만의 Memory 저장 웹사이트|React,nodeJS|숙명여대 중앙동아리 SOLUX 28th 장려상|[Wemory](https://github.com/leeeyez/Wemory)
 |2023.7|Local|현지 파견 여행 정보 서비스|Django,Html|2023 여기톤 : HERETHON 해피문데이상(대상)|[Local](https://github.com/leeeyez/Local)
 |2022.12|Bbangle|유명 베이커리 모바일 예약 어플리케이션|Java||[Bbangle](https://github.com/leeeyez/bbangle)|
