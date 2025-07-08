@@ -9,7 +9,7 @@
 |2025.2|Parker|주차 및 단속 구역 정보 서비스|React,Spring||[Parker](https://github.com/leeeyez/Parker_Frontend)
 |2024.12 ~ 2025.2|MOIM|캠퍼스 모임 관리 웹서비스|Next.js(TS),Spring||[MOIM](https://github.com/GCU-LINKVERSE/Client)
 |2024.6 ~ 2024.9|Pocket|문화생활 아카이빙 티켓북 웹서비스|React,Spring||[Pocket](https://github.com/Pocket2024)
-|2024.1 ~ 2024.2|PLAVEL|여행성향 테스트 기반의 여행 정보 자유게시판|React,Django||[PLAVEL](https://github.com/leeeyez/PLAVEL-FE)
+|2024.1 ~ 2024.2|PLAVEL|여행성향 테스트 기반의 여행 정보 자유게시판|React,Django|숙명여대 중앙동아리 SOLUX 28th 2학기 우수상|[PLAVEL](https://github.com/leeeyez/PLAVEL-FE)
 |2023.11 ~ 2023.12|브스널컬러|집중력 향상을 위한 뇌파 자극 개인 맞춤형 스마트 무드등|Python,php||[브스널컬러](https://github.com/leeeyez/Bsonalcolor_Web)
 |2023.11|송이의숲|숙명 눈송이만을 위한 챌린지 쉐어 플랫폼|React,Spring|| [송이의숲](https://github.com/Songyee-Challenge)
 |2023.11|Farewell2023|2023년 한 해 회고 서비스|React,Django|멋쟁이사자처럼 11기 4호선톤 우수상| [Farewell](https://github.com/FAREWELL2023)
