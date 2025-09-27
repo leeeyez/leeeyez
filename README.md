@@ -4,43 +4,42 @@
 
 <br/>
 
-|기간|프로젝트|소개|기술|수상|바로보기|
-|---|---|---|---|---|---|
-|2025.1 ~ |Likelion SMWU 홈페이지|숙명여대 멋쟁이사자처럼 홈페이지 유지보수|React,Spring||[Likelion SMWU](https://github.com/Likelion-at-SMWU-WebFounder)
-|2025.2|Parker|주차 및 단속 구역 정보 서비스|React,Spring||[Parker](https://github.com/leeeyez/Parker_Frontend)
-|2024.12 ~ 2025.2|MOIM|캠퍼스 모임 관리 웹서비스|Next.js(TS),Spring||[MOIM](https://github.com/leeeyez/MOIM-Client)
-|2024.6 ~ 2024.9|Pocket|문화생활 아카이빙 티켓북 웹서비스|React,Spring||[Pocket](https://github.com/Pocket2024)
-|2024.1 ~ 2024.2|PLAVEL|여행성향 테스트 기반의 여행 정보 자유게시판|React,Django|숙명여대 중앙동아리 SOLUX 28th 2학기 우수상|[PLAVEL](https://github.com/leeeyez/PLAVEL-FE)
-|2023.11 ~ 2023.12|브스널컬러|집중력 향상을 위한 뇌파 자극 개인 맞춤형 스마트 무드등|Python,php||[브스널컬러](https://github.com/leeeyez/Bsonalcolor_Web)
-|2023.11|송이의숲|숙명 눈송이만을 위한 챌린지 쉐어 플랫폼|React,Spring|| [송이의숲](https://github.com/Songyee-Challenge)
-|2023.11|Farewell2023|2023년 한 해 회고 서비스|React,Django|멋쟁이사자처럼 11기 4호선톤 우수상| [Farewell](https://github.com/FAREWELL2023)
-|2023.7 ~ 2023.8|Bridge|발달장애인을 위한 지원서비스 통합신청 웹사이트|React,Django||[Bridge](https://github.com/leeeyez/Bridge)
-|2023.7 ~ 2023.8|Wemory|We, 우리만의 Memory 저장 웹사이트|React,nodeJS|숙명여대 중앙동아리 SOLUX 28th 장려상|[Wemory](https://github.com/leeeyez/Wemory)
-|2023.7|Local|현지 파견 여행 정보 서비스|Django,Html|2023 여기톤 : HERETHON 해피문데이상(대상)|[Local](https://github.com/leeeyez/Local)
-|2022.4 ~ 2022.5|마음기상청|오늘의 날씨와 기분에 따른 사용자 맞춤형 콘텐츠 추천 웹 서비스|React,nodeJS|숙명여대 IT공학전공 학생회 주관 프로젝트 대회 IPS 우수상|[마음기상청](https://github.com/leeeyez/mind-forecast)|
-<br/>
+<!--내용 부분-->
+<h3 align="center">Tech Stack</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />&nbsp
+</div>
 
 <br/>
 
+<h3 align="center">Tools</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Git Kraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />&nbsp
+</div>
+
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeyez&show_icons=true&bg_color=00000000)
 
 <br/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp;
-
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Gitkraken-179287?style=flat-square&logo=gitkraken&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp;
